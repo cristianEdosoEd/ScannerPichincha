@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScannerPichincha</string>
+    <string name="title_activity_start_">Start_Activity</string>
+    <string name="font_awesome_barcode">&#xf02a;</string>
+    <string name="font_awesome_database">&#xf1c0;</string>
+    <string name="font_awesome_tols">&#xf0ad;</string>
+    <string name="font_awesome_text">&#xf1c3;</string>
+    <string name="title_activity_scanner_">Scanner_Activity</string>
+    <string name="title_activity_report_">Report_Activity</string>
+</resources>
